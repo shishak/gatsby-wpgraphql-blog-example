@@ -1,5 +1,5 @@
 const config = {
-  wordPressUrl: `https://demo.wpgraphql.com`,
+  wordPressUrl: `http://52.59.99.142`,
 }
 
 export default config
